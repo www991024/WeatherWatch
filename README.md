@@ -25,9 +25,9 @@ WeatherWatch Pro 是一個天氣資訊服務，允許用戶查詢當前天氣數
 ## 專案任務
 
 ### 1. 專案設置和基本結構
-- [ ] 初始化 Python 專案並安裝依賴
-- [ ] 使用 FastAPI 設置基本路由
-- [ ] 配置 PostgreSQL 連接
+- [x] 初始化 Python 專案並安裝依賴
+- [x] 使用 FastAPI 設置基本路由
+- [x] 配置 PostgreSQL 連接
 - [ ] 實現基本錯誤處理中間件
 
 ### 2. 用戶認證系統
