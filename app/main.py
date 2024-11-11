@@ -3,7 +3,7 @@ from app.routes import auth
 from app.database import engine
 from app import models
 from app.models.user import Base
-
+from dotenv import load_dotenv
 
 models.Base.metadata.create_all(bind=engine)
 
